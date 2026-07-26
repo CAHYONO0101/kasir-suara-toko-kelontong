@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Kasir Suara Toko Kelontong",
+  "description": "Aplikasi Kasir Toko Kelontong Khusus Ibu-Ibu dengan Transaksi Suara (Voice POS), Font Sangat Besar, Mode Offline, Barcode Scanner, dan AI Pintar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
